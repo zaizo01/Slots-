@@ -1,4 +1,4 @@
-# example
+# Slots and Dinamic Components
 
 > A Vue.js project
 
